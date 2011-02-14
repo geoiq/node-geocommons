@@ -1,0 +1,25 @@
+A simple wrapper to http://geocommons.com. Provides access to spatial datasets and maps both in JSON format. 
+
+
+
+Installation:
+
+  a. clone the repo
+
+or
+
+  b. npm install geocommons <--soon
+
+
+
+Examples:
+
+  var geocommons = require('geocommons')
+
+  var ds_id = 92139
+
+  geocommons.dataset(ds_id, USERNAME, PASSWORD, function(err, result){
+    if (err) console.log(err)
+    else console.log(result)
+  })
+
