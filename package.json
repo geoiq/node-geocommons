@@ -1,0 +1,33 @@
+{
+   "name": "GeoCommons",
+   "version": "0.0.1",
+   "description": "A NodeJS wrapper to the GeoCommons.com API. Access to +50k geo-spatial datasets and maps.",
+   "keywords": [
+       "GIS",
+       "open data",
+       "geocommons",
+       "location"
+       "geospatial",
+       "geo"
+   ],
+   "maintainers": [
+       {
+           "name": "Christopher Helm",
+           "email": "christopher.helm@geoiq.com",
+           "web": "http://geocommons.com" 
+       } 
+   ],
+   "licenses": [
+       {
+           "type": "MIT",
+           "url": "http://www.opensource.org/licenses/mit-license.php" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "http://" 
+       } 
+   ],
+   "main":"geocommons"
+}
